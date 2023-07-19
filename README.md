@@ -1,8 +1,8 @@
 # Public-IMG
 
-只是用来当图床的仓库~(以及适当得放些文件.png)
+> * ***本仓库图片均来源于网络 [除了 "Blog_IMG" 与 “Files” ]***
 
-* ***图片均来源于网络***
+只是用来当图床的仓库~(以及适当得放些文件.png)
 
 ![](https://raw.githubusercontent.com/ChocolaVanilla0305/Public-IMG/main/Others/105790385p12.jpg)
 
