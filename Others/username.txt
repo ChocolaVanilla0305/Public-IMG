@@ -1,0 +1,35 @@
+Circled	Ⓚⓞⓤⓢⓐⓚⓐ Ⓚⓘⓡⓘⓝⓞ
+Circled (neg)	🅚🅞🅤🅢🅐🅚🅐 🅚🅘🅡🅘🅝🅞
+Fullwidth	Ｋｏｕｓａｋａ Ｋｉｒｉｎｏ
+Math bold	𝐊𝐨𝐮𝐬𝐚𝐤𝐚 𝐊𝐢𝐫𝐢𝐧𝐨
+Math bold Fraktur	𝕶𝖔𝖚𝖘𝖆𝖐𝖆 𝕶𝖎𝖗𝖎𝖓𝖔
+Math bold italic	𝑲𝒐𝒖𝒔𝒂𝒌𝒂 𝑲𝒊𝒓𝒊𝒏𝒐
+Math bold script	𝓚𝓸𝓾𝓼𝓪𝓴𝓪 𝓚𝓲𝓻𝓲𝓷𝓸
+Math double-struck	𝕂𝕠𝕦𝕤𝕒𝕜𝕒 𝕂𝕚𝕣𝕚𝕟𝕠
+Math monospace	𝙺𝚘𝚞𝚜𝚊𝚔𝚊 𝙺𝚒𝚛𝚒𝚗𝚘
+Math sans	𝖪𝗈𝗎𝗌𝖺𝗄𝖺 𝖪𝗂𝗋𝗂𝗇𝗈
+Math sans bold	𝗞𝗼𝘂𝘀𝗮𝗸𝗮 𝗞𝗶𝗿𝗶𝗻𝗼
+Math sans bold italic	𝙆𝙤𝙪𝙨𝙖𝙠𝙖 𝙆𝙞𝙧𝙞𝙣𝙤
+Math sans italic	𝘒𝘰𝘶𝘴𝘢𝘬𝘢 𝘒𝘪𝘳𝘪𝘯𝘰
+Parenthesized	⒦⒪⒰⒮⒜⒦⒜ ⒦⒤⒭⒤⒩⒪
+Regional Indicator	🇰🇴🇺🇸🇦🇰🇦 🇰🇮🇷🇮🇳🇴
+Squared	🄺🄾🅄🅂🄰🄺🄰 🄺🄸🅁🄸🄽🄾
+Squared (neg)	🅺🅾🆄🆂🅰🅺🅰 🅺🅸🆁🅸🅽🅾
+Tag	󠁋󠁯󠁵󠁳󠁡󠁫󠁡󠀠󠁋󠁩󠁲󠁩󠁮󠁯
+A-cute pseudoalphabet	Ḱőúśáḱá Ḱíŕíńő
+CJK+Thai pseudoalphabet	ズou丂ﾑズﾑ ズﾉ尺ﾉ刀o
+Curvy 1 pseudoalphabet	ᛕѻપรคᛕค ᛕٱɼٱกѻ
+Curvy 2 pseudoalphabet	кσυѕαкα кιяιησ
+Curvy 3 pseudoalphabet	к๏ยรคкค кเгเภ๏
+Faux Cyrillic pseudoalphabet	Ќоцѕака Ќіѓіио
+Faux Ethiopic pseudoalphabet	ጕዐሁነልጕል ጕጎዪጎክዐ
+Math Fraktur pseudoalphabet	𝔎𝔬𝔲𝔰𝔞𝔨𝔞 𝔎𝔦𝔯𝔦𝔫𝔬
+Rock Dots pseudoalphabet	Ḳöüṡäḳä Ḳïṛïṅö
+Small Caps pseudoalphabet	ᴋᴏᴜꜱᴀᴋᴀ ᴋɪʀɪɴᴏ
+Stroked pseudoalphabet	ꝀøᵾsȺꝁȺ Ꝁɨɍɨnø
+Subscript pseudoalphabet	ₖₒᵤₛₐₖₐ ₖᵢᵣᵢₙₒ
+Superscript pseudoalphabet	ᴷᵒᵘˢᵃᵏᵃ ᴷⁱʳⁱⁿᵒ
+Inverted pseudoalphabet	ꓘonsɐʞɐ ꓘıɹıuo
+Inverted pseudoalphabet (backwards)	ouıɹıꓘ ɐʞɐsnoꓘ
+Reversed pseudoalphabet	KoUꙅAkA Kiᴙiᴎo
+Reversed pseudoalphabet (backwards)	oᴎiᴙiK AkAꙅUoK
